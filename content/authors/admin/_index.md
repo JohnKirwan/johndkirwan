@@ -20,7 +20,7 @@ social:
     link: https://github.com/JohnKirwan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/johndkirwan/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
