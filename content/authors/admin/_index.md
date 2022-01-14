@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/johndkirwan/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Stazione Zoologica Anton Dohrn
+    url: https://www.szn.it/index.php/it/personale/staff/977-kirwan-john-d/9210-kirwan-john-d
 education:
   courses:
     - course: PhD in Artificial Intelligence
