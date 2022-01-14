@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Living Light 2021"
-event: My talk at the Living Light conference 2021. 
+event: My talk at the Living Light conference 2021.
 event_url:
 location:
 address:
@@ -16,9 +16,9 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-01-14T15:22:00+01:00
-date_end: 2022-01-14T15:22:00+01:00
-all_day: false
+date: 2021-09-23T15:22:00+01:00
+#date_end: 2022-01-14T15:22:00+01:00
+all_day: true
 
 # Schedule page publish date (NOT event date).
 publishDate: 2022-01-14T15:22:00+01:00
