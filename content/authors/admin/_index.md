@@ -26,14 +26,14 @@ organizations:
     url: https://www.szn.it/index.php/it/personale/staff/977-kirwan-john-d/9210-kirwan-john-d
 education:
   courses:
-    - course: PhD in Biology
+    - course: PhD in Biology (Vision Science)
       institution: "Lund University "
       year: 2018
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MSc in Biology (Molecular Evolution)
+      institution: University College Dublin
+      year: 2010
+    - course: BSc Hons. in Zoology
+      institution: University College Dublin
       year: 2008
 superuser: true
 highlight_name: true
