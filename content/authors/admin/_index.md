@@ -14,7 +14,7 @@ social:
     link: https://twitter.com/johndkirwan
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=1IJf70gAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
     link: https://github.com/JohnKirwan
