@@ -26,9 +26,9 @@ organizations:
     url: https://www.szn.it/index.php/it/personale/staff/977-kirwan-john-d/9210-kirwan-john-d
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Biology
+      institution: "Lund University "
+      year: 2018
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
