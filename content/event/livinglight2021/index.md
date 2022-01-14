@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Livinglight2021"
-event:
+title: "Living Light 2021"
+event: My talk at the Living Light conference 2021. 
 event_url:
 location:
 address:
