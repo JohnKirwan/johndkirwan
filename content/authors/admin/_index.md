@@ -44,4 +44,4 @@ highlight_name: false
 title: John D. Kirwan
 email: ""
 ---
-I am a life science researcher, interested in invertebrate vision, scientific data analysis and scientific communication. I carried out my doctoral research on spatial vision in simple visual systems at Lund University, Sweden. I am a postdoc at Stazione Zoologica Anton Dohrn, Naples, working on photodetection in a sea urchin. Find my CV [here](https://europa.eu/!hh76Hf).
+I am a life science researcher, interested in invertebrate vision, scientific data analysis and scientific communication. I carried out my doctoral research on spatial vision in simple visual systems at Lund University, Sweden. I am a postdoc at Stazione Zoologica Anton Dohrn, Naples, working on photodetection in a sea urchin. Find my CV [here](https://europa.eu/europass/eportfolio/screen/share/1641eeea-bc1c-4f80-bf7c-5734709db995?lang=en).
