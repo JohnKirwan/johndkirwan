@@ -3,7 +3,7 @@
 
 title: "Living Light 2021"
 event: My talk at the Living Light conference 2021.
-event_url:
+event_url: https://www.livinglight-conference.org/
 location:
 address:
   street:
