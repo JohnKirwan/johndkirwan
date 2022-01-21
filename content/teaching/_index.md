@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-\
+
 ## Supervision
 
 During my PhD and subsequently, I co-supervised four Bachelor projects and internships covering animal behaviour and eye morphology.
@@ -22,7 +22,7 @@ In 2019-2020, I co-supervised a MSc student project based at Lund University, co
 
 In my current role in 2021, I assisted a PhD student with experimental design and statistical analysis for a project concerning the effect of light and other factors on larval morphology.
 
-\
+
 ## Laboratory Teaching Aid Roles
 
 Lund University - Sensory Biology (BIOR20). 2013 –2018. I was a teaching aid for experimental labs during this advanced course. I chiefly led an electroretinography lab concerning insect vision, where I graded reports and contributed to improvements in the lab structure.
@@ -33,12 +33,12 @@ Lund University – Zoologi (BIOB02). 2013 –2017. I was a lab teaching aid for
 
 University College Dublin – During my M.Sc. by research (2008), I was a teaching assistant for the undergraduate course Animal Developmental (CELB30010).
 
-\
+
 ## Further Pedagogical Experience
 
 Environmental education. I participated in environmental education activities for the National Trust for Scotland at Newhailes, Edinburgh in 2011 and the Irish Wildlife Trust throughout Leinster in 2012.
 
-\
+
 ## Training and Certifications
 
 Teaching and Learning in Higher Education. 15/05/2015 – 30/06/2015. Lund University - Graduate Pedagogy Course (3 ECTS) - Lund, Sweden
