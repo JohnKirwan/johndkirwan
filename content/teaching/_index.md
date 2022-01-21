@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "mergellina_small.png"
+  image: "mergellina.png"
 ---
 
 ## Supervision
