@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "sharing_avatar.jpg"
+  image: "small_pic.jpg"
 ---
 
 ## Supervision
@@ -37,5 +37,5 @@ University College Dublin – During my M.Sc. by research (2008), I was a teachi
 Environmental education. I participated in environmental education activities for the National Trust for Scotland at Newhailes, Edinburgh in 2011 and the Irish Wildlife Trust throughout Leinster in 2012.
 
 ## Training and Certifications
- 
+
 Teaching and Learning in Higher Education. 15/05/2015 – 30/06/2015. Lund University - Graduate Pedagogy Course (3 ECTS) - Lund, Sweden
