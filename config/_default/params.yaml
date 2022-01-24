@@ -23,7 +23,7 @@ twitter: ''
 #email: test@example.org
 #phone: 888 888 88 88
   address: Stazione Zoologica Anton Dohrn
-#  street: Villa communale
+  street: Villa communale
   city: Naples
 #  region: CA
 #  postcode: '94305'
