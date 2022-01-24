@@ -25,10 +25,10 @@ twitter: ''
   address: Stazione Zoologica Anton Dohrn
   street: Villa communale
   city: Naples
-#  region: CA
-#  postcode: '94305'
+  region: CA
+  postcode: '80121'
   country: Italy
-#  country_code: US
+  country_code: IT
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
