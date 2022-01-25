@@ -30,7 +30,7 @@ Lund University – Neurobiology (BIOR58). 2013 –2017. As a teaching aid for t
 
 Lund University – Zoologi (BIOB02). 2013 –2017. I was a lab teaching aid for the undergraduate Zoology course. My part of the labs concerned invertebrates and early animal evolution and development. This lab was conducted primarily in Swedish.
 
-University College Dublin – During my M.Sc. by research (2008), I was a teaching assistant for the undergraduate course Animal Developmental (CELB30010).
+University College Dublin – During my M.Sc. by research (2008), I was a teaching assistant for the undergraduate course Animal Development (CELB30010).
 
 ## Further Pedagogical Experience
 
