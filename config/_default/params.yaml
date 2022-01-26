@@ -46,14 +46,14 @@ contact_links:
     icon_pack: fab
     name: github
     link: 'https://github.com/JohnKirwan'
-  - icon: orcid
-    icon_pack: ai
-    name: orcid
-    link: 'https://orcid.org/0000-0001-5537-3574'
   - icon: researchgate
     icon_pack: ai
     name: researchgate
     link: 'https://www.researchgate.net/profile/John-Kirwan-6'
+  - icon: orcid
+    icon_pack: ai
+    name: orcid
+    link: 'https://orcid.org/0000-0001-5537-3574'    
 
 # Site header
 
