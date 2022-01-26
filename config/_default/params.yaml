@@ -53,7 +53,11 @@ contact_links:
   - icon: orcid
     icon_pack: ai
     name: orcid
-    link: 'https://orcid.org/0000-0001-5537-3574'    
+    link: 'https://orcid.org/0000-0001-5537-3574'
+  - icon: zotero
+    icon_pack: ai
+    name: zotero
+    link: 'https://www.zotero.org/johnkirwan'
 
 # Site header
 
