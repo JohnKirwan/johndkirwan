@@ -46,10 +46,10 @@ contact_links:
     icon_pack: fab
     name: github
     link: 'https://github.com/JohnKirwan'
-#  - icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/'
+  - icon: orcid
+    icon_pack: ai
+    name: orcid
+    link: 'https://orcid.org/0000-0001-5537-3574'
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
