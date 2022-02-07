@@ -70,5 +70,5 @@ abstract: Recent findings of sequence convergence in the Prestin gene among some
   of high-frequency hearing has involved multiple loci.
 publication: '*Heredity*'
 url_pdf: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22167055
-doi: hdy2011119 [pii] 10.1038/hdy.2011.119
+doi: 10.1038/hdy.2011.119
 ---
