@@ -4,7 +4,7 @@
 title: "Urchin Photodetection"
 summary: ""
 authors: []
-tags: []
+tags: [sea urchin, Paracentrotus lividus, visual ecology, phototaxis]
 categories: []
 date: 2022-02-15T21:15:02+01:00
 
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-In my cuirrent role at SZN, I participate in a [project]('https://www.hfsp.org/hfsp-news-events/uncovering-mechanisms-decentralized-vision-sea-urchins') aimed at uncovering how urchins can see without discrete eyes.
+In my current role at SZN, I participate in a [project]('https://www.hfsp.org/hfsp-news-events/uncovering-mechanisms-decentralized-vision-sea-urchins') aimed at uncovering how a sea urchin can see without discrete eyes. My role has included measuring the spatial resolving power of the adult animal's vision.
