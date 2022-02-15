@@ -23,7 +23,7 @@ main:
     url: 'teaching'
     weight: 60
   - name: Project
-    url: '#project'
+    url: '#projects'
     weight: 65
   - name: Contact
     url: '#contact'
