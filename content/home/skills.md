@@ -33,7 +33,7 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "aperture"
+  icon = "fa-aperture"
   icon_pack = "fas"
   name = "Experimental design"
   description = ""
