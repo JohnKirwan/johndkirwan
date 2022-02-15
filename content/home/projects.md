@@ -9,7 +9,7 @@ active:   true  # Activate this widget? true/false
 
 
 # Order that this section appears on the page.
-weight: 65
+weight: 120
 
 title: Projects
 subtitle: ''
