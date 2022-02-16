@@ -22,6 +22,14 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5537-3574
+  - icon: researchgate
+    icon_pack: ai
+    name: researchgate
+    link: 'https://www.researchgate.net/profile/John-Kirwan-6'
+  - icon: zotero
+    icon_pack: ai
+    name: zotero
+    link: 'https://www.zotero.org/johnkirwan'
 organizations:
   - name: Stazione Zoologica Anton Dohrn
     url: https://www.szn.it/index.php/it/personale/staff/977-kirwan-john-d/9210-kirwan-john-d
