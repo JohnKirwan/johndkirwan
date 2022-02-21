@@ -9,7 +9,7 @@ interests:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&pli=1&user=b2UN4cEAAAAJ
+    link: https://scholar.google.com/citations?user=1IJf70gAAAAJ
   - icon: envelope
     icon_pack: fas
     link: /#contact
