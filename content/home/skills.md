@@ -32,6 +32,12 @@ subtitle = ""
   name = "Scientific writing"
   description = ""
 
+# [[feature]]
+#   icon = "fa-aperture"
+#   icon_pack = "fas"
+#   name = "Experimental design"
+#   description = ""
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
