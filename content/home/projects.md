@@ -9,11 +9,7 @@ active:   true  # Activate this widget? true/false
 
 
 # Order that this section appears on the page.
-<<<<<<< HEAD
 weight: 70
-=======
-weight: 120
->>>>>>> 3d85073bf229ce0ffbe6a90c2a71222fd012fbca
 
 title: Projects
 subtitle: ''

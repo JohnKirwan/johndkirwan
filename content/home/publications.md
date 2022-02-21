@@ -7,11 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-<<<<<<< HEAD
 weight: 80
-=======
-weight: 65
->>>>>>> 3d85073bf229ce0ffbe6a90c2a71222fd012fbca
 
 title: Recent Publications
 subtitle: ''

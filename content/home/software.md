@@ -5,11 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-<<<<<<< HEAD
 weight = 60  # Order that this section will appear.
-=======
-weight = 90  # Order that this section will appear.
->>>>>>> 3d85073bf229ce0ffbe6a90c2a71222fd012fbca
 
 title = "Software"
 subtitle = ""
@@ -61,11 +57,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-<<<<<<< HEAD
   # text_color_light = true  
-=======
-  # text_color_light = true
->>>>>>> 3d85073bf229ce0ffbe6a90c2a71222fd012fbca
 
 [advanced]
  # Custom CSS.
