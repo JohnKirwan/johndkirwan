@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: Though lacking eyes, some sea urchins can see: Several species exhibit resolving vision, as distinct from mere light detection. How and where light is captured and how this information is integrated to elicit visual behaviour remains a fascinating and challenging enigma for those studying vision and its evolution. The purple sea urchin *Paracentrotus lividus* is an important browser of the Northeastern Atlantic and Mediterranean, both ecologically and economically. We assessed the spatial resolution of this species in laboratory experiments using fifty individuals from the Bay of Naples. We carry out behavioural trials in which individuals are placed in a cylindrical arena (50 cm high and 91 cm in diameter) to determine if they orient towards a visual stimulus on the arena wall. This arena was submerged in seawater under diffuse downwelling light at daylight intensity. We adopt a novel stimulus whose reflectance around the azimuth is patterned according to a 1D 1st order Hermitian wavelet and is homogeneous in the vertical plane. This stimulus provides adjacent, symmetrical regions of light and dark relative to the background without discrete edges. We tested all individuals at five angular widths of stimulus, including a negative control of width 0° in the bright phase of diel entrainment. Animals oriented on clearing an obstacle and not to the negative control. *P. lividus* resolves a 45° stimulus or finer in these conditions. Vision of this acuity may suffice for tasks such as finding nearby shelters or more distant patches of habitat.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
