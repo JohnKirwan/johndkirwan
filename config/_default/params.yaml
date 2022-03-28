@@ -38,10 +38,10 @@ country_code: IT
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: twitter
-    link: 'https://twitter.com/johndkirwan'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: twitter
+#    link: 'https://twitter.com/johndkirwan'
   - icon: github
     icon_pack: fab
     name: github
