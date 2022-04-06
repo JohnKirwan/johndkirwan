@@ -31,6 +31,10 @@ social:
     icon_pack: ai
     name: zotero
     link: 'https://www.zotero.org/johnkirwan'
+  - icon: researcherid
+    icon_pack: ai
+    name: publons
+    link: 'https://publons.com/researcher/C-6734-2015/'
 organizations:
   - name: Stazione Zoologica Anton Dohrn
     url: https://www.szn.it/index.php/it/personale/staff/977-kirwan-john-d/9210-kirwan-john-d
