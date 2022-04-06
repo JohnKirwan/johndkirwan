@@ -66,6 +66,10 @@ contact_links:
     icon_pack: fab
     link: 'https://www.linkedin.com/in/johndkirwan'
     name: LinkedIn
+  - icon: researcherid
+    icon_pack: ai
+    link: 'https://publons.com/researcher/C-6734-2015/'
+    name: publons
 
 # Site header
 
