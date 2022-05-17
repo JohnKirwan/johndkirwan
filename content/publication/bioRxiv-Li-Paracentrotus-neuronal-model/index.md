@@ -5,8 +5,8 @@ title: "A model of decentralized vision in the sea urchin Diadema africanum"
 authors:
 - Tianshu Li
 - John D. Kirwan
-- Maria Ina Arnone,
-- Dan-Eric Nilsson,
+- Maria Ina Arnone
+- Dan-Eric Nilsson
 - Giancarlo La Camera
 
 date: 2022-05-03T14:01:33+02:00
