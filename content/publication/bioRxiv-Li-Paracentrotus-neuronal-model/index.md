@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "BioRxiv Li Paracentrotus Neuronal Model"
+title: "A model of decentralized vision in the sea urchin Diadema africanum"
 authors:
 - Tianshu Li
 - John D. Kirwan
@@ -22,7 +22,7 @@ publishDate: 2022-05-17T14:01:33+02:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "A model of decentralized vision in the sea urchin Diadema africanum"
+publication: "bioRxiv"
 publication_short: ""
 
 abstract: "Sea urchins can detect light and move in relation to luminous stimuli despite lacking eyes. They presumably detect light through photoreceptor cells distributed on their body surface. However, there is currently no mechanistic explanation of how these animals can process light to detect visual stimuli and produce oriented movement. Here, we present a model of decentralized vision in echinoderms that includes all known processing stages, from photoreceptor cells to radial nerve neurons to neurons contained in the oral nerve ring encircling the mouth of the animals. In the model, light stimuli captured by photoreceptor cells produce neural activity in the radial nerve neurons. In turn, neural activity in the radial nerves is integrated in the oral nerve ring to produce a profile of neural activity reaching spatially across several ambulacra. This neural activity is read out to produce a model of movement. The model captures the pattern of behavior observed in sea urchin Diadema africanum probed with a variety of physical stimuli. The specific pattern of neural connections used in the model makes testable predictions on the properties of single neurons and aggregate neural behavior in Diadema africanum and other echinoderms, offering a potential understanding of the mechanism of visual orientation in these animals."
