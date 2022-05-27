@@ -41,3 +41,5 @@ slides: ""
 ---
 
 In my current role at SZN, I participate in a [project]('https://www.hfsp.org/hfsp-news-events/uncovering-mechanisms-decentralized-vision-sea-urchins') aimed at uncovering how a sea urchin can see without discrete eyes. My role has included measuring the spatial resolving power of the adult animal's vision.
+
+{{< figure src="Plividus_Herm_approach.gif" caption="Sea urchin approaching target" numbered="true" >}}
