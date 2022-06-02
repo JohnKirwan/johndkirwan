@@ -46,4 +46,4 @@ In my current role at SZN, I participate in a [project]('https://www.hfsp.org/hf
 
 Using data from the long-spined urchin *Diadema africanum*, Tianshu Li and Giancarlo La Camera have created a neuronal model of decentralized [urchin vision](https://www.biorxiv.org/content/10.1101/2022.05.03.490537v1).
 
-Find a copy of my poster for the Euro Evo Devo 2022 Naples conference [here]('EED_poster.png')
+Find a copy of my poster for the Euro Evo Devo 2022 Naples conference {{% staticref "uploads/EED_poster_lite.pdf" "newtab" %}}here{{% /staticref %}}.
