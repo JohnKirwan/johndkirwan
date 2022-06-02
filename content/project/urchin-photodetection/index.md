@@ -44,4 +44,6 @@ In my current role at SZN, I participate in a [project]('https://www.hfsp.org/hf
 
 {{< figure src="Plividus_Herm_approach.gif" caption="Sea urchin approaching target" numbered="true" >}}
 
-Using data from the long-spined urchin *Diadema africanum*, Tianshu Li and Giancarlo La Camera have created a neuronal model of decentralized [urchin vision](https://www.biorxiv.org/content/10.1101/2022.05.03.490537v1). 
+Find a copy of my poster for the Euro Evo Devo 2022 Naples conference [here](/assets/media/EED_poster.png)
+
+Using data from the long-spined urchin *Diadema africanum*, Tianshu Li and Giancarlo La Camera have created a neuronal model of decentralized [urchin vision](https://www.biorxiv.org/content/10.1101/2022.05.03.490537v1).
