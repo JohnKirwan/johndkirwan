@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Post-doctoral Researcher"
   company = "Arquimea Research Centre"
-  company_url = ""
+  company_url = "https://www.arquimea.com/research-development-innovation/research-center/"
   location = "San Cristóbal de La Laguna, Spain"
   date_start = "2022-07-04"
   date_end = ""
