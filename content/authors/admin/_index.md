@@ -36,8 +36,8 @@ social:
     name: publons
     link: 'https://publons.com/researcher/C-6734-2015/'
 organizations:
-  - name: Stazione Zoologica Anton Dohrn
-    url: https://www.szn.it/index.php/it/personale/staff/977-kirwan-john-d/9210-kirwan-john-d
+  - name: Arquimea Research Centre
+    url: https://www.arquimea.com/research-development-innovation/research-center/
 education:
   courses:
     - course: PhD in Biology (Vision Science)
