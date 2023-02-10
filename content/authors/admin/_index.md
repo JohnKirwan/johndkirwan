@@ -57,4 +57,4 @@ highlight_name: false
 title: Dr. John D. Kirwan
 email: ""
 ---
-I am a life science researcher, interested in invertebrate vision, scientific data analysis and scientific communication. I carried out my doctoral research on spatial vision in simple visual systems at Lund University, Sweden. I am a postdoc at Arquimea Research Centre, La Laguna, Spain. Find my CV [here](https://europa.eu/europass/eportfolio/screen/share/1641eeea-bc1c-4f80-bf7c-5734709db995?lang=en).
+I am a life science researcher, interested in invertebrate vision, scientific data analysis and scientific communication. I carried out my doctoral research on spatial vision in simple visual systems at Lund University, Sweden. I am a postdoc at Arquimea Research Centre, La Laguna, Spain. Find my CV [here](https://europa.eu/europass/eportfolio/screen/share/942e5ab3-b2ab-4be4-b689-d852a07d4801).
