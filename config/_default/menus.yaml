@@ -33,5 +33,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
-#    url: https://europa.eu/europass/eportfolio/screen/share/16aeb36f-4b1f-4e99-9cba-c90c376e5306?lang=en
+#    url: https://europa.eu/europass/eportfolio/screen/share/942e5ab3-b2ab-4be4-b689-d852a07d4801
 #    weight: 70
