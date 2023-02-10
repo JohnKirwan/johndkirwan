@@ -79,3 +79,8 @@ related:
       weight: 70
 security:
   _merge: deep
+backend:
+  name: github
+  repo: JohnKirwan/johndkirwan # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
