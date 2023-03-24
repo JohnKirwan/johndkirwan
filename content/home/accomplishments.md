@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+title = "[Applied Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/software-engineering-fundamentals)"
+organization = "Coursera / IBM"
+certificate_url = "https://coursera.org/share/d217c2ee9082940b903d22e46d3e8062"
+date_start = "2023-01-18"     # required field
+date_end   = "2023-03-10"
+description = ""
+
 [[item]]
 title = "[Pharmaceutical Bioinformatics & Applied Pharmaceutical Bioinformatics](http://www.pharmbio.org/)"
 organization = "[Uppsala University](https://www.farmbio.uu.se/research/pharmaceutical-bioinformatics/)"
@@ -27,28 +36,12 @@ date_end   = "2020-05-31"
 description = "Distinction"
 
 [[item]]
- title = "[Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)"
+ title = "[Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)"
  organization = "Coursera / IBM"
- certificate_url = "https://www.youracclaim.com/badges/51428d11-18c2-41b2-be4a-a23c4eddbe57"
- date_start = "2019-07-07"
- date_end = ""
+ certificate_url = "https://coursera.org/share/2423b1d56a477cf2c54be3ede83d5712"
+ date_start = "2019-06-17"
+ date_end = "2019-11-16"
  description = ""
-
-[[item]]
- title = "[Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)"
- organization = "Coursera / IBM"
- certificate_url = "https://www.youracclaim.com/badges/b3acda09-86f6-4295-8ae2-e7412614c894"
- date_start = "2019-06-23"
- date_end = ""
- description = ""
-
-# [[item]]
-#  title = "[Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai)"
-#  organization = "Coursera / IBM"
-#  certificate_url = "https://www.youracclaim.com/badges/7f7488b0-7c35-4607-bfac-5a53aa360342"
-#  date_start = "2019-06-18"
-#  date_end = ""
-#  description = ""
 
  [[item]]
  title = "[Writing in the Sciences](https://online.stanford.edu/courses/som-y0010-writing-sciences)"
