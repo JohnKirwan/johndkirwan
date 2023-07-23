@@ -37,6 +37,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+#Find a copy of my poster for the Euro Evo Devo 2022 Naples conference {{% staticref "uploads/EED_poster_lite.pdf" "newtab" %}}here{{% /staticref %}}.
 slides: ""
 ---
 
@@ -44,6 +45,5 @@ In my current role at SZN, I participate in a [project]('https://www.hfsp.org/hf
 
 {{< figure src="Plividus_Herm_approach.gif" caption="Sea urchin approaching target" numbered="true" >}}
 
-Using data from the long-spined urchin *Diadema africanum*, Tianshu Li and Giancarlo La Camera have created a neuronal model of decentralized [urchin vision](https://www.biorxiv.org/content/10.1101/2022.05.03.490537v1).
+Using data from the long-spined urchin *Diadema africanum*, Tianshu Li and Giancarlo La Camera have created a neuronal model of decentralized [urchin vision](https://www.cell.com/iscience/pdf/S2589-0042(23)00372-3.pdf).
 
-Find a copy of my poster for the Euro Evo Devo 2022 Naples conference {{% staticref "uploads/EED_poster_lite.pdf" "newtab" %}}here{{% /staticref %}}.
