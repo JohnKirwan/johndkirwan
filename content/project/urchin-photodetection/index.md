@@ -43,7 +43,18 @@ slides: ""
 
 In my current role at SZN, I participate in a [project]('https://www.hfsp.org/hfsp-news-events/uncovering-mechanisms-decentralized-vision-sea-urchins') aimed at uncovering how a sea urchin can see without discrete eyes. My role has included measuring the spatial resolving power of the adult animal's vision.
 
-{{< figure src="Plividus_Herm_approach.gif" caption="Sea urchin approaching target" numbered="true" >}}
+{{< figure src="urchin-photodetection/Plividus_Herm_approach.gif" caption="Sea urchin approaching target" numbered="true" >}}
 
 Using data from the long-spined urchin *Diadema africanum*, Tianshu Li and Giancarlo La Camera have created a neuronal model of decentralized [urchin vision](https://www.cell.com/iscience/pdf/S2589-0042(23)00372-3.pdf).
 
+{{< figure src="urchin-photodetection/6135.png" caption="Sea urchin original image" numbered="true" >}}
+
+{{< figure src="urchin-photodetection/6135out_poster_1cm.png" caption="Sea urchin original image" numbered="true" >}}
+
+{{< figure src="urchin-photodetection/6135out_poster_5cm.png" caption="Sea urchin original image" numbered="true" >}}
+
+{{< figure src="urchin-photodetection/6135out_poster_10cm.png" caption="Sea urchin original image" numbered="true" >}}
+
+{{< figure src="urchin-photodetection/6135out_poster_20cm.png" caption="Sea urchin original image" numbered="true" >}}
+
+{{< figure src="urchin-photodetection/6135out_poster_45cm.png" caption="Sea urchin original image" numbered="true" >}}
