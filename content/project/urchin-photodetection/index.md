@@ -49,12 +49,12 @@ Using data from the long-spined urchin *Diadema africanum*, Tianshu Li and Gianc
 
 {{< figure src="urchin-photodetection/6135.png" caption="Sea urchin original image" numbered="true" >}}
 
-{{< figure src="urchin-photodetection/6135out_poster_1cm.png" caption="Sea urchin original image" numbered="true" >}}
+{{< figure src="urchin-photodetection/6135out_poster_1cm.jpg" caption="At 1 cm distance" numbered="true" >}}
 
-{{< figure src="urchin-photodetection/6135out_poster_5cm.png" caption="Sea urchin original image" numbered="true" >}}
+{{< figure src="urchin-photodetection/6135out_poster_5cm.jpg" caption="At 5 cm distance" numbered="true" >}}
 
-{{< figure src="urchin-photodetection/6135out_poster_10cm.png" caption="Sea urchin original image" numbered="true" >}}
+{{< figure src="urchin-photodetection/6135out_poster_10cm.jpg" caption="At 10 cm distance" numbered="true" >}}
 
-{{< figure src="urchin-photodetection/6135out_poster_20cm.png" caption="Sea urchin original image" numbered="true" >}}
+{{< figure src="urchin-photodetection/6135out_poster_20cm.jpg" caption="At 20 cm distance" numbered="true" >}}
 
-{{< figure src="urchin-photodetection/6135out_poster_45cm.png" caption="Sea urchin original image" numbered="true" >}}
+{{< figure src="urchin-photodetection/6135out_poster_45cm.jpg" caption="At 45 cm distance" numbered="true" >}}
