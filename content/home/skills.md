@@ -14,11 +14,11 @@ subtitle = ""
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
+<!-- [[feature]]
   icon = "low-vision"
   icon_pack = "fas"
   name = "Vision science"
-  description = ""
+  description = "" -->
 
 [[feature]]
   icon = "r-project"
@@ -32,11 +32,11 @@ subtitle = ""
   name = "Scientific writing"
   description = ""
 
-# [[feature]]
-#   icon = "fa-aperture"
-#   icon_pack = "fas"
-#   name = "Experimental design"
-#   description = ""
+[[feature]]
+  icon = "fa-aperture"
+  icon_pack = "fas"
+  name = "Experimental design"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
